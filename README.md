@@ -5,13 +5,13 @@ This project built a small symbolic execution engine to transfer concrete langua
 
 ## Motivation
 
-This project is used to improve my skil in the Software Testing, Quality, Assurance, Maintenance.
+This project is used to improve my skill in the Software Testing, Quality, Assurance, Maintenance.
 
 ## Installation
 
 1.Install Python 2.7<br>
 2.Open the interpreter using the following command:$ python -m wlang.int wlang/test1.prg<br>
-3. Execute the sample program using the following command: python -m wlang.sym wlang/test1.prg<br>
+3.Execute the sample program using the following command: python -m wlang.sym wlang/test1.prg<br>
 
 
 
